@@ -1,0 +1,31 @@
+{
+  "name": "auth-input",
+  "version": "1.0.0",
+  "description": "Set of authentication inputs for React Native including name, email, phone number and show/hide password.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "react-native-component",
+    "react-native",
+    "mobile",
+    "ios",
+    "android",
+    "authentification",
+    "input",
+    "text",
+    "input"
+  ],
+  "author": "Gleb Globin",
+  "license": "MIT",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.66.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GottliebGlob/AuthInput.git"
+  }
+}
