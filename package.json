@@ -1,6 +1,6 @@
 {
   "name": "auth-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set of authentication inputs for React Native including name, email, phone number and show/hide password.",
   "main": "index.js",
   "scripts": {
